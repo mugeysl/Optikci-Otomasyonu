@@ -1,0 +1,3 @@
+?sim: muge
+Soyisim: yisil
+Marka:atasun Model:okumaGozlugu 1400.000000 TL degerindeki urun sat?n al?nd? 

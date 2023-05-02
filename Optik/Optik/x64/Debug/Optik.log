@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\C++ Projelerim\Optik\Optik\Source.cpp(262,12): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(317,42): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(347,12): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(369,11): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(428,12): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(428,12): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(428,12): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(439,90): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(444,91): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(444,128): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\C++ Projelerim\Optik\Optik\Source.cpp(445,128): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+  Optik.vcxproj -> C:\C++ Projelerim\Optik\x64\Debug\Optik.exe
